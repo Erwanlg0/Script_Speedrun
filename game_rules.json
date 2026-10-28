@@ -1,0 +1,6 @@
+{
+  "celeste": {
+    "max_duration": 3600,
+    "levels_only": true
+  }
+}

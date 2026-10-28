@@ -5,6 +5,13 @@ Video_download/バトルマニア BATTLE MANIA (Level 1 )-v1925623368.mp4
 Video_final/Body by Milk Race and Refuel - Tournament - Wrap.mp4
 Video_final/Non-Euclidean Lemon Grab Experiment - any% - CaptNinja6.mp4
 *.mp4
+__pycache__/
+*.py[cod]
+.venv/
+.tools/
+Video_download/
+Video_final/
+preview/
 Video_final/Non-Euclidean Lemon Grab Experiment - any% - CaptNinja6.mp4
 Video_final/Sakura Taisen GB Geki Hanagumi Nyūtai\! - Midday Swordsman  - Mini Games (JP) - B0SSCAT.mp4
 Video_final/Non-Euclidean Lemon Grab Experiment - any% - CaptNinja6.mp4
